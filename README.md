@@ -1,8 +1,7 @@
 ### Welcome
 
-Below are some personal projects that I've worked on in the past. 
+Below are some of the more recent personal projects that I've worked on in the past. 
 
-**NOTE:** These projects are in chronological order, so newer projects appear first and older projects appear towards the bottom. 
 
 # Projects
 
@@ -21,7 +20,7 @@ https://github.com/DataBeast03/Portfolio/assets/10015949/efcaad0a-7662-4c5b-ba53
 
 # Machine Learning Pipeline for Bank Fraud 
 
-![](https://github.com/DataBeast03/Portfolio/blob/master/Fraud_Detection/atm_fraud.png)
+![](https://github.com/Alexander-Barriga/my_portfolio/blob/main/Fraud_Detection/atm_fraud.png)
 
 ## Summary 
 
@@ -62,7 +61,7 @@ Click [**here**](https://github.com/DataBeast03/Portfolio/tree/master/Fraud_Dete
 
 ## Dashboard: Scalable Machine Learning Pipeline 
 
-![](https://github.com/DataBeast03/DataBeast/blob/master/Dash_MLTool/pipeline_img.png)
+![](https://github.com/Alexander-Barriga/my_portfolio/blob/main/Dash_MLTool/pipeline_img.png)
 
 #### This is a complete pipeline: 
 1. Runs Classification and Regression data through an ETL pipeline
@@ -74,7 +73,7 @@ Click [**here**](https://github.com/DataBeast03/Portfolio/tree/master/Fraud_Dete
 
 #### Scalability and Performance Boost
 
-![](https://github.com/DataBeast03/DataBeast/blob/master/Dash_MLTool/runtime_reg.png)
+![](https://github.com/Alexander-Barriga/my_portfolio/blob/main/Dash_MLTool/runtime_reg.png)
 
 This pipeline was tested on a 8 core laptop. The chart shows that speed increases are achieved as the number of cores increases. 
 The limiting factor for the performance boost being, of course, the run time of a single model's trian time and the number of cores. 
@@ -98,8 +97,6 @@ Check out the [**Dash Script**](https://github.com/DataBeast03/DataBeast/blob/ma
 ------
 
 ## Analytical Dashboard 
-
-![](http://www.kwhanalytics.com/wp-content/uploads/2018/01/kWh_share_logo.jpg)
 
 ![](https://github.com/DataBeast03/DataBeast/blob/master/Dash_Dashboard/dashboard_screenshot.png)
 
