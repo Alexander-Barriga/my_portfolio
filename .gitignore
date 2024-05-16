@@ -1,0 +1,63 @@
+
+# Ignore virtual environment directory
+cancer_venv/*
+
+# Ignore log files
+*.log
+
+# Ignore cached Python files
+__pycache__/
+
+# Ignore environment file 
+.env
+
+# Ignore image data
+*.png
+*.jpg
+
+# Ignore pickle files
+.pickle
+
+# Ignore json
+.json
+
+
+# Wine.com Data
+WineRecommender/data/*.txt
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+#*.txt
+*.tsv
+*.pkl
+*.pyc
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# notebook checkpoints
+*-checkpoint.py
+*.DS_Store
