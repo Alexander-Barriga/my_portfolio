@@ -1,6 +1,6 @@
-# Deep Learning
+## Classify Physical Activities with CNN Deep Learning Models 
+<img src="https://github.com/Alexander-Barriga/my_portfolio/blob/main/DeepLearning/CNN_Activity_Classification/sport_watch_logos.png" width="400"><img src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/04/CNN-example-block-diagram-1024x340.jpg" width="400">
 
-![Particle Swarm Optimization](http://www.itm.uni-stuttgart.de/research/pso_opt/bilder/pso.gif)
 
-I designed and coded deep learning networks using the Theano neural-network library in Python. I've used deep learning to 
-build [image classifiers](https://github.com/AlexanderPhysics/DataBeast/blob/master/DeepLearning/ImageRecognition/ImageRecogniton_CNN.ipynb), [predict the appearnce of sunspots 6 months into the future](https://github.com/AlexanderPhysics/DataBeast/blob/master/DeepLearning/TimeSeries/Long_Short_Term_Memory_(LSTM).ipynb), and to better understand how convex and non-convex optimization algorithms work, including [gradient descent](https://github.com/AlexanderPhysics/DataBeast/blob/master/DeepLearning/Optimization/High_Performance_Gradient_Descent.ipynb) and [particle swarm](https://github.com/AlexanderPhysics/DataBeast/blob/master/DeepLearning/Optimization/Global_Optimization.ipynb). 
+
+Based on the research of the authors of this [whitepaper](https://arxiv.org/pdf/1610.07031.pdf), I trained a Convolutional Neural Network to classify the physical activities of users wearing wrist devices that contain sensors like an accelerometer and gyroscope. In order words, the CNN was trained on time-series data and not images and performed quite well. 

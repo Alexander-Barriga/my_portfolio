@@ -12,7 +12,6 @@ __pycache__/
 .env
 
 # Ignore image data
-*.png
 *.jpg
 
 # Ignore pickle files
