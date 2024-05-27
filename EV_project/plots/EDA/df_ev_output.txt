@@ -1,0 +1,20 @@
+        Brand                          Model  AccelSec  TopSpeed_KmH  \
+0       Tesla  Model 3 Long Range Dual Motor       4.6           233   
+1  Volkswagen                      ID.3 Pure      10.0           160   
+2    Polestar                              2       4.7           210   
+3         BMW                            iX3       6.8           180   
+4       Honda                              e       9.5           145   
+
+   Range_Km  Efficiency_WhKm FastCharge_KmH RapidCharge PowerTrain  \
+0       450              161            940         Yes        AWD   
+1       270              167            250         Yes        RWD   
+2       400              181            620         Yes        AWD   
+3       360              206            560         Yes        RWD   
+4       170              168            190         Yes        RWD   
+
+     PlugType  BodyStyle Segment  Seats  PriceEuro  
+0  Type 2 CCS      Sedan       D      5      55480  
+1  Type 2 CCS  Hatchback       C      5      30000  
+2  Type 2 CCS   Liftback       D      5      56440  
+3  Type 2 CCS        SUV       D      5      68040  
+4  Type 2 CCS  Hatchback       B      4      32997  
