@@ -23,8 +23,9 @@ Here you'll find some personal data science projects that I've worked on.
 
 # Melanoma Detection and ChatGPT Assistant
 
-This project is a web application built using Dash, a trained CNN for classifying skin marks as benign or malignant Melanoma, and a custom ChatGPT medical assistant to answer melanoma-related questions.
+This project is a web application built using Dash, a trained CNN model for classifying skin marks as benign or malignant Melanoma, and a custom ChatGPT medical assistant to answer melanoma-related questions. 
 
+You can read the Medium article I wrote explaining the app [**here**](https://towardsdatascience.com/create-an-a-i-driven-product-with-computer-vision-and-chatgpt-070a34ab9877?sk=41cb5af971a780c5a366d4b4308761b3).
 
 ## Demo 
 
