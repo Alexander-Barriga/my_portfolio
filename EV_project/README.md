@@ -2,7 +2,7 @@
 
 ### Cluster EVs by performance metrics, create an energy cost model, and compare monthly energy costs between brands.
 
-![Image](./plots/Cost_Model/"Monthly Energy Cost by EV Tier.png")
+![Image](./plots/Cost_Model/Monthly%20Energy%20Cost%20Distribution%20by%20EV%20Tier.png)
 
 #### TL;DR
 - Understand the distributions of EV performance metrics and driver behavior at EV charging stations
