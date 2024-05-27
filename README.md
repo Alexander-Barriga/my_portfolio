@@ -4,6 +4,20 @@ Here you'll find some personal data science projects that I've worked on.
 
 
 # Projects
+------
+# EV Energy Cost by Performance Tier Analysis 
+
+### Cluster EVs by performance metrics, create an energy cost model, and compare monthly energy costs between brands.
+
+![Image](./EV_project/plots/Cost_Model/Monthly%20Energy%20Cost%20Distribution%20by%20EV%20Tier.png)
+
+#### TL;DR
+- Understand the distributions of EV performance metrics and driver behavior at EV charging stations
+- Run statistical hypothesis testing on EV driver charging behavior
+- Create correlation model between EV performance metrics and price
+- Cluster EVs based on performance metrics and create two tiers
+- Create EV energy price model and compare results between EV tiers and brands
+
 
 -----
 
