@@ -1,8 +1,8 @@
-### Welcome
+# Welcome
 
 Here you'll find some personal data science projects that I've worked on. 
 
-#### Note
+### Note
 I've recently had to migrate a subset of my personal projects to a completely new GitHub account. My previous, and long-standing, GitHub account got blocked by GitHub (other than myself no one else could access it). I don't know why. I've reported this to GitHub but I have yet to hear back. 
 
 
